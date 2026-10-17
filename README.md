@@ -44,8 +44,8 @@ Python, `python-telegram-bot`, the OpenAI Python client and `python-dotenv`.
 Use Python 3, a Telegram bot token from [BotFather](https://t.me/BotFather), and an API token for the JavaRush endpoint configured in [gpt.py](tinder-bot/classes/gpt.py): `https://openai.javarush.com/v1`. The client uses the `gpt-3.5-turbo` model.
 
 ```bash
-git clone https://github.com/ivan-zamula/tinder-bot-v2.git
-cd tinder-bot-v2
+git clone https://github.com/ivan-zamula/tinder-bot-2025-javarush.git
+cd tinder-bot-2025-javarush
 python3 -m venv .venv
 source .venv/bin/activate
 python -m pip install python-telegram-bot openai python-dotenv

@@ -44,8 +44,8 @@ Python, `python-telegram-bot`, клиент OpenAI для Python и `python-dote
 Нужны Python 3, токен Telegram-бота от [BotFather](https://t.me/BotFather) и API-токен для адреса JavaRush, указанного в [gpt.py](tinder-bot/classes/gpt.py): `https://openai.javarush.com/v1`. Клиент использует модель `gpt-3.5-turbo`.
 
 ```bash
-git clone https://github.com/ivan-zamula/tinder-bot-v2.git
-cd tinder-bot-v2
+git clone https://github.com/ivan-zamula/tinder-bot-2025-javarush.git
+cd tinder-bot-2025-javarush
 python3 -m venv .venv
 source .venv/bin/activate
 python -m pip install python-telegram-bot openai python-dotenv
