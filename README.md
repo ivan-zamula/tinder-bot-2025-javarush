@@ -1,4 +1,4 @@
-# Tinder-помощник, вооруженный Искусственным Интеллектом #
+# AI Telegram Bot (JavaRush, 2025)
 ## Description
 
 Проект по разработке Telegram-чатбота с интеграцией с ChatGPT в рамках марафона по Python от Javarush.
